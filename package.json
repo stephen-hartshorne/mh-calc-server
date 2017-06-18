@@ -1,0 +1,19 @@
+{
+  "name": "mh-calc-server",
+  "version": "0.0.1",
+  "description": "Monster Hunter Armor Calculator Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephen-hartshorne/mh-calc-server.git"
+  },
+  "author": "Stephen Hartshorne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephen-hartshorne/mh-calc-server/issues"
+  },
+  "homepage": "https://github.com/stephen-hartshorne/mh-calc-server#readme"
+}
